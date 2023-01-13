@@ -1,0 +1,18 @@
+.bigBox{
+    width: 500px;
+    height: 500px;
+    background: aqua;
+    position: relative;
+}
+.miniBox{
+    width: 100px;
+    height: 100px;
+    background: cadetblue;
+    position: absolute
+}
+
+.container2{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
